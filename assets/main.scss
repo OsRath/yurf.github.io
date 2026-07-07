@@ -5,9 +5,10 @@
 
 
 
-.post-title,
-.page-heading {
+.site-title,
+.site-title:visited {
   font-weight: 700;
+  font-size: 2rem;
 }
 
 .tile-container {
@@ -68,7 +69,7 @@ h2 {
 
 .intro-image {
   width: 200px;
-  height: 300px;
+  height: 240px;
   object-fit: cover;
   border-radius: 12px;
   flex-shrink: 0;
