@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 
 ---
 
 ## Moin - Hier ein Einblick in meine Welt 

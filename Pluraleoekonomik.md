@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Wissenswertes"
 permalink: /Pluraleoekonomik/
 ---
 
