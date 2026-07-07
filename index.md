@@ -20,8 +20,9 @@ layout: default
     <h3>Wissenswertes</h3>
     <p>Wohl mit Bias</p>
   </a>
-  
 </div>
+
+ \hspace{1cm}
 
 # Meine Tagebucheinträge
 
