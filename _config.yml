@@ -1,4 +1,7 @@
-title: "Dunkelrote Erinnerungen"
-description: "Ein privates veröffentlichtes Tagebuch"
+title: "**Dunkelrote Erinnerungen"
 url: "https://yurf.de"
 theme: minima
+
+header_pages:
+  - 2026.md
+  - Pluraleoekonomik.md

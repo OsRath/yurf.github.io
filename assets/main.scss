@@ -1,0 +1,52 @@
+---
+---
+
+@import "minima";
+
+.tile-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.tile {
+  display: block;
+  width: 200px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #f5f5f5;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.tile h3 {
+  margin: 0 0 10px 0;
+}
+
+.tile p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.tile-meinung {
+  background-color: #eef3fb;
+}
+
+.tile-meinung:hover {
+  background-color: #e0e9f8;
+}
+
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
