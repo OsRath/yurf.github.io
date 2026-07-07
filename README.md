@@ -1,13 +1,15 @@
-## Meine Tagebucheinträge
+
 ## Meinungsbeiträge
 
 <div class="tile-container">
   <a href="/Pluraleoekonomik/" class="tile tile-meinung">
-    <h3>🌍 Klimawandel</h3>
+    <h3>WIssenswertes</h3>
     <p>Meine Gedanken dazu</p>
   </a>
   
 </div>
+
+## Meine Tagebucheinträge
 
 <div class="tile-container">
   <a href="/2026/" class="tile">
