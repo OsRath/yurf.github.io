@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Moin - Hier ein Einblick in meine Welt 
+# Moin - Hier ein Einblick in meine Welt 
 
 
 <div class="intro-container">
@@ -13,7 +13,7 @@ layout: default
   </div>
 </div>
 
-## Meinungsbeiträge
+# Meinungsbeiträge
 
 <div class="tile-container">
   <a href="/Pluraleoekonomik/" class="tile tile-meinung">
@@ -23,7 +23,7 @@ layout: default
   
 </div>
 
-## Meine Tagebucheinträge
+# Meine Tagebucheinträge
 
 <div class="tile-container">
   <a href="/2026/" class="tile">
