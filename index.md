@@ -21,6 +21,12 @@ layout: default
     <p>Wohl mit Bias und schlechtem Quellverzeichnis</p>
   </a>
 </div>
+<div class="tile-container">
+  <a href="/AltesNotizheft.md/" class="tile tile-meinung">
+    <h3>Erstes Tagebuch</h3>
+    <p>Meine erste Sinneskrise und was ich gelernt habe</p>
+  </a>
+</div>
 
 <div style="margin-top: 3rem;"></div>
 
