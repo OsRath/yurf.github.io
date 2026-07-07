@@ -1,5 +1,3 @@
-# Dunkelrote Erinnerungen
-
 07.07.2026 
 
 <img
