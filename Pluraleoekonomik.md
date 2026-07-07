@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ökonomische Denkrichtungen"
-permalink: /Puraleoekonomik/
+permalink: /Pluraleoekonomik/
 ---
 
 ## Frankfurter Schule
