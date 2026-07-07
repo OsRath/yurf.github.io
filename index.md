@@ -18,7 +18,7 @@ layout: default
 <div class="tile-container">
   <a href="/Pluraleoekonomik/" class="tile tile-meinung">
     <h3>Wissenswertes</h3>
-    <p>Wohl mit Bias</p>
+    <p>Wohl mit Bias und schlechtem Quellverzeichnis</p>
   </a>
 </div>
 
