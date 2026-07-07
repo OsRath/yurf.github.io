@@ -50,3 +50,28 @@ h2 {
   border-bottom: 2px solid #eee;
   padding-bottom: 8px;
 }
+
+.intro-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.intro-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.intro-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.intro-text h2 {
+  margin-top: 0;
+}

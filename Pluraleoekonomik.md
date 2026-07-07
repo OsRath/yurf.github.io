@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ökonomische Denkrichtungen"
+title: "Wissenswertes"
 permalink: /Pluraleoekonomik/
 ---
 

@@ -3,6 +3,17 @@ layout: default
 title: 
 ---
 
+## Moin - Hier ein Einblick in meine Welt 
+
+
+<div class="intro-container">
+  <img src="/assets/images/TR.jpg" alt="Profilbild" class="intro-image">
+  <div class="intro-text">
+    <h2>Willkommen auf meiner Website</h2>
+    <p>Hier schreibst du deinen Einführungstext, der neben dem Bild angezeigt wird. Du kannst hier z. B. kurz erklären, worum es auf deiner Seite geht.</p>
+  </div>
+</div>
+
 ## Meinungsbeiträge
 
 <div class="tile-container">
