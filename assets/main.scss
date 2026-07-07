@@ -3,6 +3,13 @@
 
 @import "minima";
 
+
+
+.post-title,
+.page-heading {
+  font-weight: 700;
+}
+
 .tile-container {
   display: flex;
   flex-wrap: wrap;
@@ -61,7 +68,7 @@ h2 {
 
 .intro-image {
   width: 200px;
-  height: 250px;
+  height: 270px;
   object-fit: cover;
   border-radius: 12px;
   flex-shrink: 0;

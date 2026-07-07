@@ -22,7 +22,7 @@ layout: default
   </a>
 </div>
 
- \hspace{1cm}
+<div style="margin-top: 3rem;"></div>
 
 # Meine Tagebucheinträge
 
