@@ -3,4 +3,4 @@ layout: page
 permalink: /Pluraleoekonomik/
 ---
 
-# Frankfurter Schule
+## Meinungsbeiträge - Lies Gerne Bitte
