@@ -14,45 +14,62 @@
 .tile-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 28px;
   margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 .tile {
   display: block;
-  width: 200px;
-  padding: 20px;
-  border-radius: 12px;
-  background-color: #240a0a;
+  width: 260px;
+  min-height: 120px;
+  padding: 24px;
+  border-radius: 18px;
+
   text-decoration: none;
-  color: #333;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  color: #2f2f2f;
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
 }
 
 .tile:hover {
   transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+  text-decoration: none;
 }
 
 .tile h3 {
-  margin: 0 0 10px 0;
+  margin: 0 0 14px 0;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: #2f2f2f;
 }
 
 .tile p {
   margin: 0;
-  font-size: 0.9em;
-  color: #666;
+  font-size: 1rem;
+  line-height: 1.45;
+  color: #555;
 }
 
+./* Meinungsbeiträge: sanft blau */
 .tile-meinung {
-  background-color: #eef3fb;
+  background-color: #eef4fb;
 }
 
 .tile-meinung:hover {
-  background-color: #e0e9f8;
+  background-color: #e3edf8;
 }
 
+/* Tagebucheinträge: sanft rosa/rot */
+.tile-tagebuch {
+  background-color: #faeeee;
+}
+
+.tile-tagebuch:hover {
+  background-color: #f5dddd;
+}
 h2 {
   margin-top: 40px;
   border-bottom: 2px solid #eee;

@@ -20,8 +20,7 @@ layout: default
     <h3>Wissenswertes</h3>
     <p>Wohl mit Bias und schlechtem Quellverzeichnis</p>
   </a>
-</div>
-<div class="tile-container">
+
   <a href="/AltesNotizheft.md/" class="tile tile-meinung">
     <h3>Erstes Tagebuch</h3>
     <p>Meine erste Sinneskrise und was ich gelernt habe</p>
@@ -33,9 +32,10 @@ layout: default
 # Meine Tagebucheinträge
 
 <div class="tile-container">
-  <a href="/2026/" class="tile">
+  <a href="/2026/" class="tile tile-tagebuch">
     <h3>2026</h3>
     <p>Tagebucheinträge - Mal täglich mal auch nicht</p>
   </a>
 </div>
+
 <!-- TEst  -->
