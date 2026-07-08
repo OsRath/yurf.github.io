@@ -31,6 +31,8 @@
 
 .site-header .wrapper {
   width: 100%;
+  max-width: none !important;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,8 +40,14 @@
 
 .site-title,
 .site-title:visited {
+  float: none !important;
+  display: block !important;
+
   color: #f7f7f7 !important;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+
+  text-align: center !important;
+  margin: 0 auto !important;
 }
 
 .site-nav .page-link {
