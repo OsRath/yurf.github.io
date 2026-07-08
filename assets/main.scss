@@ -11,6 +11,43 @@
   font-size: 2.4rem !important;
 }
 
+/* Header Bild*/
+
+.site-header {
+  background-image: url("/assets/Images/Himmel.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  min-height: 150px;
+  height: 150px !important;
+  border-top: none;
+  border-bottom: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-header .wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.site-title,
+.site-title:visited {
+  color: #f7f7f7 !important;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+.site-nav .page-link {
+  color: #ffffff !important;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+/*Blöcke */
+
 .tile-container {
   display: flex;
   flex-direction: row;
@@ -176,35 +213,5 @@ h2 {
   text-decoration: none;
 }
 */
-/* Header Bild*/
 
-.site-header {
-  background-image: url("/assets/Images/Himmel.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  min-height: 150px;
-  height: 150px !important;
-  border-top: none;
-  border-bottom: none;
-
-  display: flex;
-  align-items: center;
-}
-
-.site-header .wrapper {
-  width: 100%;
-}
-
-.site-title,
-.site-title:visited {
-  color: #f7f7f7 !important;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
-}
-
-.site-nav .page-link {
-  color: #ffffff !important;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
-}
 
