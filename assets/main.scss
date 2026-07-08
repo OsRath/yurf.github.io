@@ -13,10 +13,12 @@
 
 .tile-container {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   gap: 28px;
   margin-top: 30px;
   margin-bottom: 60px;
+  align-items: stretch;
 }
 
 .tile {
