@@ -31,6 +31,8 @@
   text-decoration: none;
   color: #2f2f2f;
 
+  background-color: #f5f5f5;
+
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
 }
@@ -57,21 +59,22 @@
 
 /* Meinungsbeiträge: sanft blau */
 .tile-meinung {
-  background-color: #eef4fb;
+  background-color: #8fa8c4;
 }
 
 .tile-meinung:hover {
-  background-color: #e3edf8;
+  background-color: #749bc5;
 }
 
 /* Tagebucheinträge: sanft rosa/rot */
 .tile-tagebuch {
-  background-color: #faeeee;
+  background-color: #e8bdbd;
 }
 
 .tile-tagebuch:hover {
-  background-color: #f5dddd;
+  background-color: #e0a8a8;
 }
+
 h2 {
   margin-top: 40px;
   border-bottom: 2px solid #eee;
@@ -196,7 +199,7 @@ h2 {
 
 .site-title,
 .site-title:visited {
-  color: #351414 !important;
+  color: #f7f7f7 !important;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 }
 
