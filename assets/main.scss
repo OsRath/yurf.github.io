@@ -120,6 +120,12 @@
   background-color: #e0a8a8;
 }
 
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
+
 .intro-container {
   display: flex;
   align-items: center;
@@ -215,10 +221,3 @@
   text-decoration: none;
 }
 */
-/* Überschriften */
-
-h2 {
-  margin-top: 40px;
-  border-bottom: 2px solid #eee;
-  padding-bottom: 8px;
-}
