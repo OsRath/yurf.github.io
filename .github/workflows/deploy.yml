@@ -1,0 +1,82 @@
+name: Build GitHub Pages with private 2026 page
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout public website repo
+        uses: actions/checkout@v4
+        with:
+          path: public-site
+
+      - name: Checkout private repo
+        uses: actions/checkout@v4
+        with:
+          repository: OsRath/yurf-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private-pages
+
+      - name: Copy private 2026 page into website
+        run: |
+          cp private-pages/2026.md public-site/2026.md
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: false
+
+      - name: Install Jekyll and GitHub Pages gems
+        working-directory: public-site
+        run: |
+          gem install bundler
+          bundle init
+          bundle add github-pages
+
+      - name: Build Jekyll site
+        working-directory: public-site
+        run: |
+          bundle exec jekyll build
+
+      - name: Install StatiCrypt
+        run: |
+          npm install -g staticrypt
+
+      - name: Encrypt 2026 page
+        working-directory: public-site
+        run: |
+          staticrypt _site/2026/index.html \
+            --password "${{ secrets.PAGE_PASSWORD }}" \
+            --output _site/2026/index.html
+
+      - name: Add nojekyll file
+        working-directory: public-site
+        run: |
+          touch _site/.nojekyll
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public-site/_site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
