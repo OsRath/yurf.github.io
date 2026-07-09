@@ -58,12 +58,24 @@ jobs:
         run: |
           npm install -g staticrypt
 
+      - name: Show generated files
+        working-directory: public-site
+        run: |
+          find _site -maxdepth 3 -type f | sort
+
       - name: Encrypt 2026 page
         working-directory: public-site
         run: |
           staticrypt _site/2026/index.html \
-            --password "${{ secrets.PAGE_PASSWORD }}" \
-            --output _site/2026/index.html
+            -p "${{ secrets.PAGE_PASSWORD }}" \
+            -o _site/2026/index.html
+
+      - name: Check encrypted 2026 output
+        working-directory: public-site
+        run: |
+          head -n 40 _site/2026/index.html
+          grep -i "password" _site/2026/index.html || true
+          grep -i "staticrypt" _site/2026/index.html || true
 
       - name: Add nojekyll file
         working-directory: public-site
