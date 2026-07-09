@@ -66,14 +66,14 @@ jobs:
       - name: Encrypt 2026 page
         working-directory: public-site
         run: |
-          staticrypt --version
-          staticrypt --help
           staticrypt _site/2026/index.html \
             -p "${{ secrets.PAGE_PASSWORD }}" \
-            -o _site/2026/encrypted.html
-          echo "--- Suche nach allen neu erzeugten Dateien ---"
-          find . -newer /tmp -iname "*encrypt*" -o -iname "*2026*" 2>/dev/null | sort
-          find _site -type f | sort
+            -d _site/2026 \
+            --config false
+
+          echo "--- Ergebnis prüfen ---"
+          find _site/2026 -type f
+          grep -qi "staticrypt" _site/2026/index.html && echo "✅ Verschlüsselung erkannt" || echo "❌ Datei ist noch unverschlüsselt"
 
 
       - name: Check encrypted 2026 output
