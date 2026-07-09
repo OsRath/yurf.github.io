@@ -56,7 +56,7 @@ jobs:
 
       - name: Install StatiCrypt
         run: |
-          npm install -g staticrypt@4.0.5
+          npm install -g staticrypt@3.5.4
 
       - name: Show generated files
         working-directory: public-site
