@@ -70,8 +70,8 @@ jobs:
             -p "${{ secrets.PAGE_PASSWORD }}" \
             -d _site/2026 \
             --config false \
-            --template-color-primary "#5685a7" \
-            --template-color-secondary "#810a0a"
+            --template-color-primary "#e39191" \
+            --template-color-secondary "#e39191"
           echo "--- Ergebnis prüfen ---"
           find _site/2026 -type f
           grep -qi "staticrypt" _site/2026/index.html && echo "✅ Verschlüsselung erkannt" || echo "❌ Datei ist noch unverschlüsselt"
