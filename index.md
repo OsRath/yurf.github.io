@@ -29,7 +29,17 @@ layout: default
 
 <div style="margin-top: 3rem;"></div>
 
-# Meine Tagebucheinträge
+# Buchzusammenfassungen
+
+<div class="tile-container">
+  <a href="/2026/" class="tile tile-tagebuch">
+    <h3>On Writing</h3>
+    <p>Stephen King</p>
+  </a>
+</div>
+
+
+# Tagebucheinträge
 
 <div class="tile-container">
   <a href="/2026/" class="tile tile-tagebuch">
@@ -37,5 +47,6 @@ layout: default
     <p>Tagebucheinträge - Mal täglich mal auch nicht</p>
   </a>
 </div>
+
 
 <!-- TEst  -->
