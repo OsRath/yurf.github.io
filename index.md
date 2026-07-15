@@ -32,12 +32,13 @@ layout: default
 # Buchzusammenfassungen
 
 <div class="tile-container">
-  <a href="/2026/" class="tile tile-buecher">
+  <a href="/books/" class="tile tile-buecher">
     <h3>On Writing</h3>
     <p>Stephen King</p>
   </a>
 </div>
 
+<div style="margin-top: 3rem;"></div>
 
 # Tagebucheinträge
 
