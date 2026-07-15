@@ -1,6 +1,6 @@
 ---
 ---
-
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap');
 @import "minima";
 
 
@@ -90,11 +90,12 @@
 }
 
 .tile h3 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Public Sans", Arial, sans-serif;
   font-size: 1.25rem;
   font-weight: 600;
   margin: 0 0 8px 0;
   text-align: center;
+  color: #2f2f2f;
 }
 
 .tile p {
