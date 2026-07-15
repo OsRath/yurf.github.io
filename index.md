@@ -32,7 +32,7 @@ layout: default
 # Buchzusammenfassungen
 
 <div class="tile-container">
-  <a href="/books/" class="tile tile-buecher">
+  <a href="/OnWiriting/" class="tile tile-buecher">
     <h3>On Writing</h3>
     <p>Stephen King</p>
   </a>

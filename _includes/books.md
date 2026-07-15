@@ -1,5 +1,5 @@
 ---
 layout: page
-permalink: /books/
-title: "Gemixte Recherche"
+permalink: /OnWiriting/
+title: "On Writing by Stephen King"
 ---
