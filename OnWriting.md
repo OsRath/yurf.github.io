@@ -5,7 +5,7 @@ permalink: /OnWiriting/
 
 <div class="on-writing-page" markdown="1">
 
-# On Writing - Stephen King
+## On Writing - Stephen King
 
 <img
   width="1672"
@@ -21,14 +21,14 @@ Im Winter 2024 war ich auf der Suche nach Tipps um meine geschriebene Geschichte
 Adverben sind nach ihm stets eine Überbeschreibung, die nur von Personen benutzt werden, die Angst haben ihre Geschichte nicht rüberbringen zu können. "With adverbs , the writer tells us he or she is afraid they arent expressing themselves clearly..."  
 Für mich spielt es vorallem mit darein, dass die lesende Person, mit Fantasie immmer einen Teil der Geschichte übernimmt und dieses Teil nicht durch Überbeschreibung kaputt gemacht wird. Der liebe Stephen hat hier eine etwas stärkere Meinung: "I believe the road to hell is paved with adverbs, and I will shout it from the rooftops".  
 
-## Sprache muss keine Anzugschuhe und Krawatte tragen
-Der Titel ist im besten Fall eine holprige Übersetzung - bringt aber den Punkt rüber. Es geht dadrum Lesende abzulenken und dafür ist einfache Sprache, wie wir Sie auch gesprochen nutzen würden am geeignesten. Guckt man sich die Bücher an, die in letzten Jahren Buchpreise gewonnen haben, findet man genau dies, wobei ich persöhnlich eine etwas verwinkeltere Schrift präferiere. 
+## Sprache muss verständlich
+Der Titel ist im besten Fall eine holprige Übersetzung - bringt aber den Punkt rüber. Es geht dadrum Lesende abzulenken und dafür ist einfache Sprache, wie wir Sie auch gesprochen nutzen würden am geeignesten. Guckt man sich die Bücher an, die in letzten Jahren Buchpreise gewonnen haben, findet man genau dies, wobei ich persöhnlich eine winklige Schreibweise präferiere. 
 
 ## Es geht nicht dadrum Leser*innen zu Unterrichten  
 "There is a difference between lecturing what you know and using it to enrich the story". Wenn beim schreiben Recherche nötig ist, sollte der Text nicht zwischenzeitlich zum Sachbuch übergehen. 
 
 ## Zuerst die Situation, dann den Person
-Eine Geschichte wird zuerst mit der Situation ins Leben gebracht, dann von Ihren Charakteren Bevölkert und  schließlich durch Aktion belebt.  
+Eine Geschichte wird  mit einer Situation ins Leben gebracht, dann von Ihren Charakteren bevölkert und  schließlich durch Aktion belebt.  
 
 ## Nutze die Fantasie der Leser*innen  
 Für mich persöhnlich die wichtigste Anregung. Wir alle interpretieren Geschichten nach unseren Erfahrungen. Diese Freiheit darf nicht durch eine zu detaillierte Beschreibung genommen werden. Oft reichen z.B kurze Beschreibungen einer Person aus, um Klischees bei Lesenden hervorzurufen. Nach Stephen: "I can´t remember mny cases where I felt I had to describe what the people in the story of mine looked like - I'd rather let the reader supply the faces, the builds, and the clothing as well."
