@@ -34,12 +34,16 @@ layout: default
 <div class="tile-container">
   <a href="/OnWiriting/" class="tile tile-buecher">
     <h3>On Writing</h3>
-    <p>Stephen King</p>
+    <p>Stephen King  
+    -  
+    Wer ist er und bisschen Schreibtipss</p>
   </a>
 
   <a href="/Bleibefreiheit/" class="tile tile-buecher">
     <h3>Bleibefreiheit</h3>
-    <p>Eva Redeker</p>
+    <p>Eva Redeker  
+      -  
+    Was ist Freiheit?</p>
   </a>
 </div>
 
