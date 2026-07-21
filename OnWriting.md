@@ -41,6 +41,4 @@ Dies gilt auch für Charaktereigenschaften - sage nicht das eine Person so und s
 ## Erst die Geschichte, dann das Thema  
  Am Anfang eines Werkes steht eine Geschichte. Das eigentliche Thema wird beim weiteren Lesen klar oder später angeprochen. Allgemein gilt auch hier "Never tell if you can show". 
 
-
-
 </div>
