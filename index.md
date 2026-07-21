@@ -36,11 +36,7 @@ layout: default
     <h3>On Writing</h3>
     <p>Stephen King</p>
   </a>
-</div>
 
-<div style="margin-top: 3rem;"></div>
-
-<div class="tile-container">
   <a href="/Bleibefreiheit/" class="tile tile-buecher">
     <h3>Bleibefreiheit</h3>
     <p>Eva Redeker</p>
