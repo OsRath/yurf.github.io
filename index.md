@@ -36,7 +36,7 @@ layout: default
     <h3>On Writing</h3>
     <p>Stephen King  
     -  
-    Wer ist er und paar Schreibtipss</p>
+    Biographie und paar Schreibtipss</p>
   </a>
 
   <a href="/Bleibefreiheit/" class="tile tile-buecher">
