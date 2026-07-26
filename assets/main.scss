@@ -18,7 +18,8 @@
   top: 0;
   left: 0;
   width: 100%;
-  
+  z-index: 1000;
+
   background-image: url("/assets/Images/Himmel.png");
   background-size: cover;
   background-position: center;
@@ -59,6 +60,11 @@
   color: #ffffff !important;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
 }
+
+.page-content {
+  padding-top: 180px;
+}
+
 /*Blöcke */
 
 .tile-container {
