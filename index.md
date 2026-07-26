@@ -32,6 +32,7 @@ layout: default
 # Buchzusammenfassungen
 
 <div class="tile-container">
+
   <a href="/OnWiriting/" class="tile tile-buecher">
     <h3>On Writing</h3>
     <p>Stephen King  
@@ -45,6 +46,7 @@ layout: default
       -  
     Was ist Freiheit?</p>
   </a>
+
 </div>
 
 <div style="margin-top: 3rem;"></div>
@@ -55,6 +57,15 @@ layout: default
   <a href="/2026/" class="tile tile-tagebuch">
     <h3>2026</h3>
     <p>Tagebucheinträge - Mal täglich mal auch nicht</p>
+  </a>
+</div>
+
+# Emotionale Beiträge
+
+<div class="tile-container">
+  <a href="/Dutschi/" class="tile tile-Emotional">
+    <h3>Dutschi</h3>
+    <p>Unausgesprochenes Schreiben</p>
   </a>
 </div>
 
