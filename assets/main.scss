@@ -14,6 +14,11 @@
 /* Header Bild*/
 
 .site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  
   background-image: url("/assets/Images/Himmel.png");
   background-size: cover;
   background-position: center;
