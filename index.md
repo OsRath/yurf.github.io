@@ -13,10 +13,10 @@ layout: default
   </div>
 </div>
 
-# Meinungsbeiträge
+# Sachen die ich Interessant finde
 
 <div class="tile-container">
-  <a href="/Pluraleoekonomik/" class="tile tile-meinung">
+  <a href="/Pernambuko/" class="tile tile-meinung">
     <h3>Wissenswertes</h3>
     <p>Wohl mit Bias und schlechtem Quellverzeichnis</p>
   </a>
