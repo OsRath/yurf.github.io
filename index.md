@@ -17,8 +17,13 @@ layout: default
 
 <div class="tile-container">
   <a href="/Pernambuko/" class="tile tile-meinung">
-    <h3>Wissenswertes</h3>
-    <p>Wohl mit Bias und schlechtem Quellverzeichnis</p>
+    <h3>Pernambuco</h3>
+    <p>Erinnerungen an ein Auslandssemster</p>
+  </a>
+
+  <a href="/PopulistisherOekonom.md/" class="tile tile-meinung">
+    <h3>Einkommensungleichheit</h3>
+    <p>Eine extreme Perspektive</p>
   </a>
 
 </div>

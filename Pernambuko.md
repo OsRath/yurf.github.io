@@ -5,7 +5,7 @@ permalink: /Pernambuko/
 
 # Recife in Pernambuko
 
-Ach ey du hier? Die Ventilatoren über mir geben mir das wohlige Gefühl, das sonst nur Flugzeugturbinen auslösen können.  Die Mücken versuche ich mittlerweile mehr zu ignorieren als zu vertreiben und mal ehrlich, wie schlimm kann Dengue-Fieber schon sein. Meine erste Fahrt in Recife hat sich angefühlt, wie eine Verfolgungsjagd - nur im Fiat und ohne sichtbare Verfolger. Die Stadt sah aus wie eine postapokalyptische Metropole und mein sichtbar nervöser Uberfahrer, der aus dem Fiat alles rausgeholt hat was möglich war, hat mir nicht die Sicherheit gegeben, die ich gerne hätte. Der hohe mit Stacheldraht beschmückte Zaun meines Hostels hingegen schon. Die erste Nacht war wohl nicht nie entspannteste, die ich bis jetzt hatte, aber in meiner Erfahrung ist alles neue am Anfang etwas Angsteinflößend. Turns out eine postapokalyptische Szenerie ist bei Tag garnicht mal so unschön. Den Charme in zerstörten Häusern zu finden ist wohl nicht ganz sympathisch aber es gefällt mir wirklich besser als die grauen Vorortstraßen meiner Heimattadt. Sind wohl beides Orte die mir persöhnlich den Tot vermitteln nur auf eine fundamental unterschiedliche Art. 
+Ach ey du hier? Die Ventilatoren über mir geben mir das wohlige Gefühl, das sonst nur Flugzeugturbinen auslösen können.  Die Mücken versuche ich mittlerweile mehr zu ignorieren als zu vertreiben und mal ehrlich, wie schlimm kann Dengue-Fieber schon sein. Meine erste Fahrt in Recife hat sich angefühlt, wie eine Verfolgungsjagd - nur im Fiat und ohne sichtbare Verfolger. Die Stadt sah aus wie eine postapokalyptische Metropole und mein sichtbar nervöser Uberfahrer, der aus dem Fiat alles rausgeholt hat was möglich war, hat mir nicht die Sicherheit gegeben, die ich gerne hätte. Der hohe mit Stacheldraht beschmückte Zaun meines Hostels hingegen schon. Die erste Nacht war wohl nicht nie entspannteste, die ich bis jetzt hatte, aber in meiner Erfahrung ist alles neue am Anfang etwas Angsteinflößend. Turns out eine postapokalyptische Szenerie ist bei Tag garnicht mal so unschön. Den Charme in zerstörten Häusern zu finden ist wohl nicht ganz sympathisch aber es gefällt mir wirklich besser als die grauen Vorortstraßen meiner Heimattadt. Sind wohl beides Orte die mir persöhnlich den Tot vermitteln nur auf eine fundamental unterschiedliche Art.   
 
 Die kurze Phase von "War das wirklich eine gute Entscheidung" habe ich aber nach zwei Tagen schon hinter mir und jetzt scheint mir alles mehr wie ein noch zu lösendes Rätsel. Ich mag Rätsel. Plötzlich sind die normalen Dinge des Alltags wieder eine richtige Aufgabe. 
 
@@ -17,6 +17,7 @@ Am meisten beschäftigt mich natürlich die Sprache. Nicht schnell und klug antw
 
 In meinem Hostel gibt es jeden morgen ein Frühtück, welches von einer unglaublich liebenswerten älteren Frau zubereitet wird. SIE HÄLT DEN BESTEN SMALLTALK DEN ICH JE GEHÖRT HABE. Sorry fürs schreien. Es ist teilweise das brasilianische Portugiesch, teilweise die Mentalität und vermutlich auch einfach Sie. Ich kann nicht immer Teil davon sein aber die Art und Weise wie Sie jeden morgen über einfach alles mit den random Personen in diesem Raum spricht ist inspirierend. Sie alleine reicht mir als Grund aus diese Sprache zu Perfektionieren.
  
+
 
 
  ...Work in Progress...
