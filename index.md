@@ -74,6 +74,10 @@ layout: default
     <h3>Dutschi</h3>
     <p>Unausgesprochenes Schreiben</p>
   </a>
+  <a href="/Flickenteppich/" class="tile tile-Emotional">
+    <h3>Flickenteppich</h3>
+    <p>Persöhnlichkeitverlust</p>
+  </a>
 </div>
 
 
