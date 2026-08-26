@@ -21,7 +21,7 @@ layout: default
     <p>Erinnerungen an ein Auslandssemster</p>
   </a>
 
-  <a href="/PopulistisherOekonom.md/" class="tile tile-meinung">
+  <a href="/PopulistischerOekonom.md/" class="tile tile-meinung">
     <h3>Einkommensungleichheit</h3>
     <p>Eine extreme Perspektive</p>
   </a>
