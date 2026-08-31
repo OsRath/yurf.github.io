@@ -20,7 +20,7 @@ Und dann plötzlich bin ich alleine
 an einem neuen Ort und merke  
 dass der Flickenteppich meiner Persönlichkeit kein  
 Zuhause mehr hat   
-Niemand der ihn vollkommen verstehen   
+Niemand der ihn vollkommen versteht   
 
 Ich versuche die Flicken beisammen zu halten  
 und weis nicht mehr wer ich bin   
