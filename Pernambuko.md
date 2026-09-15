@@ -17,8 +17,11 @@ Am meisten beschäftigt mich natürlich die Sprache. Nicht schnell und klug antw
 
 In meinem Hostel gibt es jeden morgen ein Frühtück, welches von einer unglaublich liebenswerten älteren Frau zubereitet wird. SIE HÄLT DEN BESTEN SMALLTALK DEN ICH JE GEHÖRT HABE. Sorry fürs schreien. Es ist teilweise das brasilianische Portugiesch, teilweise die Mentalität und vermutlich auch einfach Sie. Ich kann nicht immer Teil davon sein aber die Art und Weise wie Sie jeden morgen über einfach alles mit den random Personen in diesem Raum spricht ist inspirierend. Sie alleine reicht mir als Grund aus diese Sprache zu Perfektionieren.
  
-Darf ich vorstellen: Vitor. An meinem dritten Tag war ich tief in die Wohnungssuche vertieft. Natürlich habe ich in einem Redditspost diverse ungute Geschichten lesen dürfen. Jemand wurde ausgeraubt nah bei der Uni. Jemand wurde dort tot aufgefunden. Jemand traut sich dort nicht mehr raus und rennt nur nach Hause. Geschwächt von der sich zu spitzenden Realiät habe ich Zuflucht in meinem 10er Hostelzimmer gesucht. Gemütlich auf meinen seicht gelben Lacken (weil hier nur kalt Gewaschen wird) habe ich meine Füße in die Matratze über mir gedrückt und versucht meine innere Panik weg zu rationalisieren. In einem von Panik induziertem Moment habe ich die zwei Meter weiterliegende Person angesprochen.  
+Darf ich vorstellen: Vitor. An meinem dritten Tag war ich tief in die Wohnungssuche vertieft. Natürlich habe ich in einem Redditspost diverse ungute Geschichten lesen dürfen. Jemand wurde ausgeraubt nah bei der Uni. Jemand wurde dort tot aufgefunden. Jemand traut sich dort nicht mehr raus und rennt nur nach Hause. Geschwächt von der sich zuspitzenden Realität habe ich Zuflucht in meinem 10er Hostelzimmer gesucht. Gemütlich auf meinen seicht gelben Lacken (weil hier nur kalt Gewaschen wird) habe ich meine Füße in die Matratze über mir gedrückt und versucht meine innere Panik weg zu rationalisieren. In einem von Panik induziertem Moment habe ich die zwei Meter weiterliegende Person angesprochen.  
  "Oi, tudo bem - esta äh estou a proucurar um apartemento aqui - voce sabe que Varzea e seguro?". Das ist mein erster richtiger Versuch eine Unterhaltung auf Portugiesisch zu starten. 
+
+ Auß dieser kurzen Unterhaltung sind 
+
 
 
  ...Work in Progress...
