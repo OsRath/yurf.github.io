@@ -14,7 +14,6 @@ layout: default
         src="/assets/Images/ZeichnungYT.jpg"
         alt="Mein Video auf YouTube ansehen"
       >
-      <span>▶ Hello There </span>
     </a>
   </aside>
 </div>
