@@ -198,6 +198,74 @@ h2 {
   text-align: center;
 }
 
+/* YouTube-Bild auf der Startseite */
+
+.video-sidebar-anchor {
+  position: relative;
+}
+
+.video-sidebar {
+  width: 200px;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+.video-sidebar-link,
+.video-sidebar-link:visited {
+  display: block;
+  overflow: hidden;
+  border-radius: 12px;
+  background-color: #f5f5f5;
+  color: #2f2f2f;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.video-sidebar-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.video-sidebar-link span {
+  display: block;
+  padding: 12px;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+.video-sidebar-link:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+.video-sidebar-link:focus-visible {
+  outline: 3px solid #365f89;
+  outline-offset: 4px;
+}
+
+/* Bei genügend Platz links neben dem bisherigen Inhalt */
+@media screen and (min-width: 1320px) {
+  .video-sidebar {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 30px);
+    margin-bottom: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .video-sidebar-link {
+    transition: none;
+  }
+
+  .video-sidebar-link:hover {
+    transform: none;
+  }
+}
+
 /*
 .inhalt-summary {
   font-size: 2.4rem;

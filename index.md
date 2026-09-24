@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<div class="video-sidebar-anchor">
+  <aside class="video-sidebar">
+    <a
+      class="video-sidebar-link"
+      href="https://youtu.be/c-CsKFTh8e0"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/assets/Images/ZeichnungYT.jpg"
+        alt="Mein Video auf YouTube ansehen"
+      >
+      <span>▶ Auf YouTube ansehen</span>
+    </a>
+  </aside>
+</div>
+
 # Moin - Hier ein Einblick in meine Welt 
 
 
@@ -21,7 +38,7 @@ layout: default
     <p>Erinnerungen an ein Auslandssemster</p>
   </a>
 
-  <a href="/PopulistischerOekonom.md/" class="tile tile-meinung">
+  <a href="/PopulistischerOekonom/" class="tile tile-meinung">
     <h3>Einkommensungleichheit</h3>
     <p>Eine extreme Perspektive</p>
   </a>
