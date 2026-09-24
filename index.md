@@ -2,22 +2,6 @@
 layout: default
 ---
 
-<div class="video-sidebar-anchor">
-  <aside class="video-sidebar">
-    <a
-      class="video-sidebar-link"
-      href="https://youtu.be/c-CsKFTh8e0"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="/assets/Images/ZeichnungYT.jpg"
-        alt="Mein Video auf YouTube ansehen"
-      >
-    </a>
-  </aside>
-</div>
-
 # Moin - Hier ein Einblick in meine Welt 
 
 
@@ -28,6 +12,50 @@ layout: default
     <p>Zeit verfliegt und ich versuche Sie einzufangen, doch scheiter – deswegen schreibe ich. Mit der Zeit werden meine Worte wohl auch vergehen doch noch fangen Sie, was mir immer wieder davon rennt. Mein Auf und Ab durch die Zeit. </p>
   </div>
 </div>
+
+<section class="bilderkarussell" aria-label="Meine Empfehlungen">
+  <button class="karussell-pfeil karussell-zurueck"
+          type="button" aria-label="Vorherige Bilder">
+    &#10094;
+  </button>
+
+  <div class="karussell-fenster">
+    <div class="karussell-reihe">
+      <a class="karussell-bild" href="https://youtu.be/c-CsKFTh8e0">
+        <img src="/assets/Images/ZeichnungYT.jpg"
+
+      </a>
+<!-- 
+      <a class="karussell-bild" href="https://www.youtube.com/watch?v=VIDEO_ID_2">
+        <img src="/assets/Images/bild2.jpg"
+             alt="Zweites Video ansehen">
+      </a>
+
+      <a class="karussell-bild" href="/Pernambuko/">
+        <img src="/assets/Images/bild3.jpg"
+             alt="Beitrag über Pernambuco lesen">
+      </a>
+
+      <a class="karussell-bild" href="/OnWiriting/">
+        <img src="/assets/Images/bild4.jpg"
+             alt="Buchzusammenfassung zu On Writing lesen">
+      </a>
+
+      <a class="karussell-bild" href="/2026/">
+        <img src="/assets/Images/bild5.jpg"
+             alt="Tagebucheinträge lesen">
+      </a>
+      -->
+      
+    </div>
+  </div>
+
+  <button class="karussell-pfeil karussell-weiter"
+          type="button" aria-label="Nächste Bilder">
+    &#10095;
+  </button>
+</section>
+
 
 # Sachen die ich Interessant finde
 
@@ -97,4 +125,54 @@ layout: default
 </div>
 
 
-<!-- TEst  -->
+<!-- Skripte für Website  -->
+<script>
+(() => {
+  document.querySelectorAll(".bilderkarussell").forEach((karussell) => {
+    const reihe = karussell.querySelector(".karussell-reihe");
+    const bilder = Array.from(reihe.children);
+    const zurueck = karussell.querySelector(".karussell-zurueck");
+    const weiter = karussell.querySelector(".karussell-weiter");
+    let start = 0;
+
+    function anzeigen() {
+      const anzahl = Math.min(
+        bilder.length,
+        parseInt(
+          getComputedStyle(karussell)
+            .getPropertyValue("--sichtbare-bilder"),
+          10
+        ) || 3
+      );
+
+      bilder.forEach((bild) => {
+        bild.hidden = true;
+        bild.style.display = "none";
+      });
+
+      for (let i = 0; i < anzahl; i++) {
+        const bild = bilder[(start + i) % bilder.length];
+        bild.hidden = false;
+        bild.style.display = "block";
+        reihe.appendChild(bild);
+      }
+
+      zurueck.disabled = bilder.length <= anzahl;
+      weiter.disabled = bilder.length <= anzahl;
+    }
+
+    zurueck.addEventListener("click", () => {
+      start = (start - 1 + bilder.length) % bilder.length;
+      anzeigen();
+    });
+
+    weiter.addEventListener("click", () => {
+      start = (start + 1) % bilder.length;
+      anzeigen();
+    });
+
+    window.addEventListener("resize", anzeigen);
+    anzeigen();
+  });
+})();
+</script>
