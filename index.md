@@ -23,14 +23,12 @@ layout: default
     <div class="karussell-reihe">
       <a class="karussell-bild" href="https://youtu.be/c-CsKFTh8e0">
         <img src="/assets/Images/ZeichnungYT.jpg">
-
       </a>
+      <a class="karussell-bild" href="https://ontjemosambik.wordpress.com/">
+        <img src="/assets/Images/MOZ.jpg">     
+      </a>
+
 <!-- 
-      <a class="karussell-bild" href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-        <img src="/assets/Images/bild2.jpg"
-             alt="Zweites Video ansehen">
-      </a>
-
       <a class="karussell-bild" href="/Pernambuko/">
         <img src="/assets/Images/bild3.jpg"
              alt="Beitrag über Pernambuco lesen">
