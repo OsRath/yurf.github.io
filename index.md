@@ -22,7 +22,7 @@ layout: default
   <div class="karussell-fenster">
     <div class="karussell-reihe">
       <a class="karussell-bild" href="https://youtu.be/c-CsKFTh8e0">
-        <img src="/assets/Images/ZeichnungYT.jpg"
+        <img src="/assets/Images/ZeichnungYT.jpg">
 
       </a>
 <!-- 
@@ -46,7 +46,7 @@ layout: default
              alt="Tagebucheinträge lesen">
       </a>
       -->
-      
+
     </div>
   </div>
 
