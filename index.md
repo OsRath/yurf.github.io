@@ -21,29 +21,29 @@ layout: default
 
   <div class="karussell-fenster">
     <div class="karussell-reihe">
-      <a class="karussell-bild" href="https://youtu.be/c-CsKFTh8e0">
+      <a class="karussell-bild" href="https://youtu.be/c-CsKFTh8e0"
+        target="_blank"
+        rel="noopener noreferrer">
         <img src="/assets/Images/ZeichnungYT.jpg">
       </a>
-      <a class="karussell-bild" href="https://ontjemosambik.wordpress.com/">
+      <a class="karussell-bild" href="https://ontjemosambik.wordpress.com/"
+       target="_blank"
+       rel="noopener noreferrer">
         <img src="/assets/Images/MOZ.jpg">     
+      </a> 
+      <a class="karussell-bild" href="https://substack.com/@yurf1">
+        <img src="/assets/Images/Room.jpeg">
       </a>
-
 <!-- 
-      <a class="karussell-bild" href="/Pernambuko/">
-        <img src="/assets/Images/bild3.jpg"
-             alt="Beitrag über Pernambuco lesen">
-      </a>
-
       <a class="karussell-bild" href="/OnWiriting/">
         <img src="/assets/Images/bild4.jpg"
              alt="Buchzusammenfassung zu On Writing lesen">
       </a>
-
       <a class="karussell-bild" href="/2026/">
         <img src="/assets/Images/bild5.jpg"
              alt="Tagebucheinträge lesen">
       </a>
-      -->
+ -->
 
     </div>
   </div>
