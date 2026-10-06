@@ -72,7 +72,7 @@ layout: default
 
   <a href="/AnthonyBourdain/" class="tile tile-meinung">
     <h3>Anthony Bourdain</h3>
-    <p>Ein Leben</p>
+    <p>Ein gelebtes Leben</p>
   </a>
 
 
