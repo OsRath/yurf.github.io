@@ -70,6 +70,12 @@ layout: default
     <p>Eine extreme Perspektive</p>
   </a>
 
+  <a href="/AnthonyBourdain/" class="tile tile-meinung">
+    <h3>Anthony Bourdain</h3>
+    <p>Ein Leben</p>
+  </a>
+
+
 </div>
 
 <div style="margin-top: 3rem;"></div>
