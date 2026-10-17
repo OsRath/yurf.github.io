@@ -1,6 +1,13 @@
 # Deine Reiseziele. false deaktiviert die Verlinkung.
 # SCT ist ein eigener Listeneintrag; der Kartenumriss GB enthält Schottland.
 
+
+DE:
+  name: Deutschland
+  besucht: true
+  url: /Deutschland/  
+
+
 NL:
   name: Niederlande
   besucht: true
@@ -21,7 +28,7 @@ SE:
   besucht: true
   url: /Schweden/
 
-NO:
+"NO":
   name: Norwegen
   besucht: true
   url: /Norwegen/
