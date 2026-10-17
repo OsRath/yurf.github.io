@@ -1,0 +1,29 @@
+<section class="reisekarte" aria-labelledby="reisekarte-titel">
+  <h2 id="reisekarte-titel">Meine Reisen</h2>
+  <p>Die farbigen Länder führen zu meinen Reiseberichten.</p>
+  <div class="reisekarte__rahmen">
+    <svg class="reisekarte__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 540" aria-labelledby="reisekarte-svg-titel" role="group">
+      <title id="reisekarte-svg-titel">Weltkarte meiner Reisen</title>
+      {% for land in site.data.weltkarte %}
+      {% assign reise = site.data.reisen[land.code] %}
+      {% assign name = reise.name | default: land.name %}
+      {% if reise.besucht == true and reise.url != nil and reise.url != empty %}
+      <a class="reisekarte__link" href="{{ reise.url | relative_url | escape }}" aria-label="{{ name | escape }} – Reisebericht öffnen">
+        <path class="reisekarte__land reisekarte__land--besucht" d="{{ land.path }}" fill-rule="evenodd"><title>{{ name | escape }}</title></path>
+      </a>
+      {% else %}
+      <path class="reisekarte__land" d="{{ land.path }}" fill-rule="evenodd"><title>{{ name | escape }}</title></path>
+      {% endif %}
+      {% endfor %}
+    </svg>
+  </div>
+  <p class="reisekarte__legende"><span aria-hidden="true"></span>Besucht &amp; verlinkt · Grau: nicht freigeschaltet</p>
+  <ul class="reisekarte__liste" aria-label="Meine Reiseberichte">
+    {% for land in site.data.weltkarte %}
+    {% assign reise = site.data.reisen[land.code] %}
+    {% if reise.besucht == true and reise.url != nil and reise.url != empty %}
+    <li><a href="{{ reise.url | relative_url | escape }}">{{ reise.name | default: land.name | escape }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,222 @@
+# Deine Reiseziele. false deaktiviert die Verlinkung.
+# SCT ist ein eigener Listeneintrag; der Kartenumriss GB enthält Schottland.
+
+NL:
+  name: Niederlande
+  besucht: true
+  url: /Niederlande/
+
+BE:
+  name: Belgien
+  besucht: true
+  url: /Belgien/
+
+DK:
+  name: Dänemark
+  besucht: true
+  url: /Daenemark/
+
+SE:
+  name: Schweden
+  besucht: true
+  url: /Schweden/
+
+NO:
+  name: Norwegen
+  besucht: true
+  url: /Norwegen/
+
+LU:
+  name: Luxemburg
+  besucht: true
+  url: /Luxemburg/
+
+FR:
+  name: Frankreich
+  besucht: true
+  url: /Frankreich/
+
+GB:
+  name: Großbritannien
+  besucht: true
+  url: /Grossbritannien/
+
+IE:
+  name: Irland
+  besucht: true
+  url: /Irland/
+
+SCT:
+  name: Schottland
+  besucht: true
+  url: /Schottland/
+
+ES:
+  name: Spanien
+  besucht: true
+  url: /Spanien/
+
+PT:
+  name: Portugal
+  besucht: true
+  url: /Portugal/
+
+IT:
+  name: Italien
+  besucht: true
+  url: /Italien/
+
+AT:
+  name: Österreich
+  besucht: true
+  url: /Oesterreich/
+
+CH:
+  name: Schweiz
+  besucht: true
+  url: /Schweiz/
+
+PL:
+  name: Polen
+  besucht: true
+  url: /Polen/
+
+CZ:
+  name: Tschechien
+  besucht: true
+  url: /Tschechien/
+
+HR:
+  name: Kroatien
+  besucht: true
+  url: /Kroatien/
+
+SI:
+  name: Slowenien
+  besucht: true
+  url: /Slowenien/
+
+HU:
+  name: Ungarn
+  besucht: true
+  url: /Ungarn/
+
+BA:
+  name: Bosnien-Herzegowina
+  besucht: true
+  url: /Bosnien-Herzegowina/
+
+ME:
+  name: Montenegro
+  besucht: true
+  url: /Montenegro/
+
+AL:
+  name: Albanien
+  besucht: true
+  url: /Albanien/
+
+REGION_KOSOVO:
+  name: Kosovo
+  besucht: true
+  url: /Kosovo/
+
+MK:
+  name: Nordmazedonien
+  besucht: true
+  url: /Nordmazedonien/
+
+GR:
+  name: Griechenland
+  besucht: true
+  url: /Griechenland/
+
+TR:
+  name: Türkei
+  besucht: true
+  url: /Tuerkei/
+
+ID:
+  name: Indonesien
+  besucht: true
+  url: /Indonesien/
+
+TH:
+  name: Thailand
+  besucht: true
+  url: /Thailand/
+
+MY:
+  name: Malaysia
+  besucht: true
+  url: /Malaysia/
+
+SG:
+  name: Singapur
+  besucht: true
+  url: /Singapur/
+
+US:
+  name: USA
+  besucht: true
+  url: /USA/
+
+BR:
+  name: Brasilien
+  besucht: true
+  url: /Brasilien/
+
+AO:
+  name: Angola
+  besucht: true
+  url: /Angola/
+
+NA:
+  name: Namibia
+  besucht: true
+  url: /Namibia/
+
+ZA:
+  name: Südafrika
+  besucht: true
+  url: /Suedafrika/
+
+SZ:
+  name: Eswatini
+  besucht: true
+  url: /Eswatini/
+
+LS:
+  name: Lesotho
+  besucht: true
+  url: /Lesotho/
+
+MZ:
+  name: Mosambik
+  besucht: true
+  url: /Mosambik/
+
+BW:
+  name: Botswana
+  besucht: true
+  url: /Botswana/
+
+ZW:
+  name: Simbabwe
+  besucht: true
+  url: /Simbabwe/
+
+ZM:
+  name: Sambia
+  besucht: true
+  url: /Sambia/
+
+CV:
+  name: Kapverden
+  besucht: true
+  url: /Kapverden/
+
+AU:
+  name: Australien
+  besucht: true
+  url: /Australien/

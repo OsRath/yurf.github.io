@@ -1,0 +1,54 @@
+/* Ausschließlich die neue Reisekarte. main.scss bleibt unverändert. */
+.reisekarte {
+  --karten-land: #dddfe2;
+  --karten-besucht: #8fa8c4;
+  --karten-aktiv: #d5af45;
+  margin: 3rem 0;
+}
+.reisekarte__rahmen {
+  overflow: hidden;
+  background: #f2f7fa;
+  border: 1px solid #dde5eb;
+  border-radius: 18px;
+}
+.reisekarte__svg { display: block; width: 100%; height: auto; }
+.reisekarte__land {
+  fill: var(--karten-land);
+  stroke: #fff;
+  stroke-width: 0.45;
+  vector-effect: non-scaling-stroke;
+}
+.reisekarte__land--besucht { fill: var(--karten-besucht); cursor: pointer; }
+.reisekarte__link:hover .reisekarte__land,
+.reisekarte__link:focus .reisekarte__land {
+  fill: var(--karten-aktiv);
+  stroke: #364e69;
+  stroke-width: 1.5;
+}
+.reisekarte__legende { margin: 12px 0; font-size: 0.9rem; color: #555; }
+.reisekarte__legende span {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 8px;
+  border-radius: 3px;
+  background: var(--karten-besucht);
+}
+.reisekarte__liste {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+}
+.reisekarte__liste a {
+  display: block;
+  padding: 8px 14px;
+  border-radius: 10px;
+  background: #e7edf3;
+  color: #243c55;
+  text-decoration: none;
+}
+.reisekarte__liste a:hover { background: #d8e3ef; }
+.reisekarte__liste a:focus-visible { outline: 3px solid #365f89; outline-offset: 3px; }
