@@ -130,7 +130,7 @@ layout: default
   </a>
 </div>
 
-# Hallo Welt 
+# Meine Welt 
 
 <!-- Weltkarte: Gestaltung separat, bestehendes SCSS unverändert -->
 <link rel="stylesheet" href="{{ '/assets/weltkarte.css' | relative_url }}">

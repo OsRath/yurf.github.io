@@ -98,10 +98,10 @@ HR:
   besucht: true
   url: /Kroatien/
 
-SI:
-  name: Slowenien
+SL:
+  name: Slowakei
   besucht: true
-  url: /Slowenien/
+  url: /Slowakei/
 
 HU:
   name: Ungarn
